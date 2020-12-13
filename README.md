@@ -1,3 +1,5 @@
 # CourseProject
+The topic of this course project is Text Classification Competition.
+Project demo video link:
+https://youtu.be/44ZIyAuVs78
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
